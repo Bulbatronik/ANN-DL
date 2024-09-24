@@ -2,9 +2,9 @@
 
 
 ## Overview
-The goal of the project was to develop a Neural Network based classifier of a leaves images. This project explores the impact of various network hyperparameters, such as regiralization, number of layers in the feature extractor and classifier parts, dropout and etc. Based on the work done and the ranking on `CodaLab` competition organized by the TA of the course, our team achieved 5 out of 5 points for the assignment. 
+The goal of the project is to develop a Neural Network based classifier of a leaves images. This project explores the impact of various network hyperparameters, such as regiralization, number of layers in the feature extractor and classifier parts, dropout and etc. Based on the work done and the ranking on `CodaLab` competition organized by the TA of the course, our team achieved 5 out of 5 points for the assignment. 
 
-# Dataset
+## Dataset
 The dataset used in this project is a subset of `PlantVillage` dataset (full dataset can be downloaded [here](https://data.mendeley.com/public-files/datasets/tywbtsjrjv/files/d5652a28-c1d8-4b76-97f3-72fb80f94efc/file_downloaded)). Our dataset contains `17728` images of various plants, which are divided into categories according to the species of the plant to which they belong (`14 classes`). 
 
 We split the dataset into a training (80%) and validation (20%) sets. For these purposes we used the `ImageDataGenerator`’s
