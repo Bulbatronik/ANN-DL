@@ -4,7 +4,7 @@
 
 ## Description 
 
-The repository contains two folders with projects and a folder with the notebooks from the lab exercise sessions. 
+The repository contains two folders with projects and a folder with the notebooks from the lab exercise sessions. Check each project folder to get a broader description of the task. Each projects-related notebook was run on `Kaggle`, while the notebooks from the exercise sessions were run on `Colab`.
 
 
 ### [Plant Leaves Image Classification](Plant-Leaves-Image-Classification/)
