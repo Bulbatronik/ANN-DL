@@ -1,4 +1,4 @@
-<h1 align="center"> Assignment 1: Plant Leaves Classification</h1>
+<h1 align="center"> Plant Leaves Classification</h1>
 
 
 ## Overview
