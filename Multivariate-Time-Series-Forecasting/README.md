@@ -1,4 +1,4 @@
-<h1 align="center"> Assignment 2: Multivariate Time-Series Forecasting</h1>
+<h1 align="center"> Multivariate Time-Series Forecasting</h1>
 
 ## Overview
 The goal of the project is to develop a Neural Network based forecasting model for a multivariate time series by exploiting past observations in the input sequence to correctly predict the future. This project explores the impact of various network hyperparameters, such as the type of recurrent layers, number of units, dropout, attention, as well as the window size, future telescope, prediction type (one-shot vs autoregressive) and etc. Based on the work done and the ranking on `CodaLab` competition organized by the TA of the course, our team achieved 5 out of 5 points for the assignment. 
